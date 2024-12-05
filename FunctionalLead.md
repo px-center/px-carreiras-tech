@@ -12,9 +12,7 @@ Também conhecido como líder de equipe ou coordenador técnico, é responsável
 ## LF4 - Líder Funcional 4
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/charts/functional-lead-4-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="/charts/functional-lead-4.png">
-  <img alt="Líder Funcional 4" src="/charts/functional-lead-4.png">
+  <img alt="Líder Funcional 4" src="charts/functional-lead-4.png">
 </picture>
 
 - **Especializa-se**: torna-se a referência para uma ou mais ferramentas, metodologias ou tecnologias, e busca aprender novas.
@@ -26,9 +24,7 @@ Também conhecido como líder de equipe ou coordenador técnico, é responsável
 ## LF5 - Líder Funcional 5
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/charts/functional-lead-5-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="/charts/functional-lead-5.png">
-  <img alt="Líder Funcional 5" src="/charts/functional-lead-5.png">
+  <img alt="Líder Funcional 5" src="charts/functional-lead-5.png">
 </picture>
 
 - **Evangeliza**: pesquisa, cria provas de conceito e introduz novas ferramentas, práticas ou metodologias para a equipe.
@@ -40,9 +36,7 @@ Também conhecido como líder de equipe ou coordenador técnico, é responsável
 ## LF6 - Líder Funcional 6
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/charts/functional-lead-6-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="/charts/functional-lead-6.png">
-  <img alt="Líder Funcional 6" src="/charts/functional-lead-6.png">
+  <img alt="Líder Funcional 6" src="charts/functional-lead-6.png">
 </picture>
 
 - **Domina**: possui conhecimento profundo sobre toda a metodologia, tecnologia ou ferramentas da área.
@@ -54,9 +48,7 @@ Também conhecido como líder de equipe ou coordenador técnico, é responsável
 ## LF7 - Líder Funcional 7
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/charts/functional-lead-7-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="/charts/functional-lead-7.png">
-  <img alt="Líder Funcional 7" src="/charts/functional-lead-7.png">
+  <img alt="Líder Funcional 7" src="charts/functional-lead-7.png">
 </picture>
 
 - **Domina**: possui conhecimento profundo sobre toda a metodologia, tecnologia ou ferramentas da área.

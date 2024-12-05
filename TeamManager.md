@@ -13,9 +13,7 @@ Se você gerencia outros gestores diretamente, pode querer ler a seção [Gerenc
 ## GE5 - Gestor de Equipe 5
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/charts/team-manager-5-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="/charts/team-manager-5.png">
-  <img alt="Gestor de Equipe 5" src="/charts/team-manager-5.png">
+  <img alt="Gestor de Equipe 5" src="charts/team-manager-5.png">
 </picture>
 
 - **Evangeliza**: pesquisa, cria provas de conceito e introduz novas práticas, ferramentas ou metodologias para a equipe.
@@ -27,9 +25,7 @@ Se você gerencia outros gestores diretamente, pode querer ler a seção [Gerenc
 ## GE6 - Gestor de Equipe 6
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/charts/team-manager-6-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="/charts/team-manager-6.png">
-  <img alt="Gestor de Equipe 6" src="/charts/team-manager-6.png">
+  <img alt="Gestor de Equipe 6" src="charts/team-manager-6.png">
 </picture>
 
 - **Evangeliza**: pesquisa, cria provas de conceito e introduz novas práticas, ferramentas ou metodologias para a equipe.
@@ -41,9 +37,7 @@ Se você gerencia outros gestores diretamente, pode querer ler a seção [Gerenc
 ## GE7 - Gestor de Equipe 7
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/charts/team-manager-7-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="/charts/team-manager-7.png">
-  <img alt="Gestor de Equipe 7" src="/charts/team-manager-7.png">
+  <img alt="Gestor de Equipe 7" src="charts/team-manager-7.png">
 </picture>
 
 - **Evangeliza**: pesquisa, cria provas de conceito e introduz novas práticas, ferramentas ou metodologias para a equipe.

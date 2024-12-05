@@ -12,9 +12,7 @@ Responsável por coordenar e liderar iniciativas que abrangem múltiplas equipes
 ## CP4 - Coordenador de Programas 4
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/charts/program-coordinator-4-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="/charts/program-coordinator-4.png">
-  <img alt="Coordenador de Programas 4" src="/charts/program-coordinator-4.png">
+  <img alt="Coordenador de Programas 4" src="charts/program-coordinator-4.png">
 </picture>
 
 - **Especializa-se**: torna-se a referência em uma ou mais ferramentas, metodologias ou tecnologias e busca aprender novas.
@@ -26,9 +24,7 @@ Responsável por coordenar e liderar iniciativas que abrangem múltiplas equipes
 ## CP5 - Coordenador de Programas 5
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/charts/program-coordinator-5-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="/charts/program-coordinator-5.png">
-  <img alt="Coordenador de Programas 5" src="/charts/program-coordinator-5.png">
+  <img alt="Coordenador de Programas 5" src="charts/program-coordinator-5.png">
 </picture>
 
 - **Especializa-se**: torna-se a referência em uma ou mais ferramentas, metodologias ou tecnologias e busca aprender novas.
@@ -40,9 +36,7 @@ Responsável por coordenar e liderar iniciativas que abrangem múltiplas equipes
 ## CP6 - Coordenador de Programas 6
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/charts/program-coordinator-6-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="/charts/program-coordinator-6.png">
-  <img alt="Coordenador de Programas 6" src="/charts/program-coordinator-6.png">
+  <img alt="Coordenador de Programas 6" src="charts/program-coordinator-6.png">
 </picture>
 
 - **Especializa-se**: torna-se a referência em uma ou mais ferramentas, metodologias ou tecnologias e busca aprender novas.
@@ -54,9 +48,7 @@ Responsável por coordenar e liderar iniciativas que abrangem múltiplas equipes
 ## CP7 - Coordenador de Programas 7
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/charts/program-coordinator-7-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="/charts/program-coordinator-7.png">
-  <img alt="Coordenador de Programas 7" src="/charts/program-coordinator-7.png">
+  <img alt="Coordenador de Programas 7" src="charts/program-coordinator-7.png">
 </picture>
 
 - **Especializa-se**: torna-se a referência em uma ou mais ferramentas, metodologias ou tecnologias e busca aprender novas.

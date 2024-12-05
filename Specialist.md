@@ -15,9 +15,7 @@ Papel também conhecido como especialista técnico, analista ou desenvolvedor, e
 ## N1 - Especialista de Domínio 1
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/charts/specialist-1-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="/charts/specialist-1.png">
-  <img alt="Especialista de Domínio 1" src="/charts/specialist-1.png">
+  <img alt="Especialista de Domínio 1" src="charts/specialist-1.png">
 </picture>
 
 - **Adota**: aprende e utiliza ativamente as ferramentas, processos ou metodologias definidas pela equipe.
@@ -29,9 +27,7 @@ Papel também conhecido como especialista técnico, analista ou desenvolvedor, e
 ## N2 - Especialista de Domínio 2
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/charts/specialist-2-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="/charts/specialist-2.png">
-  <img alt="Especialista de Domínio 2" src="/charts/specialist-2.png">
+  <img alt="Especialista de Domínio 2" src="charts/specialist-2.png">
 </picture>
 
 - **Adota**: aprende e utiliza ativamente as ferramentas, processos ou metodologias definidas pela equipe.
@@ -43,9 +39,7 @@ Papel também conhecido como especialista técnico, analista ou desenvolvedor, e
 ## N3 - Especialista de Domínio 3
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/charts/specialist-3-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="/charts/specialist-3.png">
-  <img alt="Especialista de Domínio 3" src="/charts/specialist-3.png">
+  <img alt="Especialista de Domínio 3" src="charts/specialist-3.png">
 </picture>
 
 - **Especializa-se**: torna-se referência em uma ou mais tecnologias, ferramentas ou metodologias, e busca aprender novas.
@@ -57,9 +51,7 @@ Papel também conhecido como especialista técnico, analista ou desenvolvedor, e
 ## N4 - Especialista de Domínio 4
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/charts/specialist-4-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="/charts/specialist-4.png">
-  <img alt="Especialista de Domínio 4" src="/charts/specialist-4.png">
+  <img alt="Especialista de Domínio 4" src="charts/specialist-4.png">
 </picture>
 
 - **Evangeliza**: pesquisa, cria provas de conceito e introduz novas práticas, ferramentas ou tecnologias à equipe.
@@ -71,9 +63,7 @@ Papel também conhecido como especialista técnico, analista ou desenvolvedor, e
 ## N5 - Especialista de Domínio 5
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/charts/specialist-5-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="/charts/specialist-5.png">
-  <img alt="Especialista de Domínio 5" src="/charts/specialist-5.png">
+  <img alt="Especialista de Domínio 5" src="charts/specialist-5.png">
 </picture>
 
 - **Domina**: possui conhecimento profundo sobre todo o stack técnico ou metodologia da área.
@@ -85,9 +75,7 @@ Papel também conhecido como especialista técnico, analista ou desenvolvedor, e
 ## N6 - Especialista de Domínio 6
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/charts/specialist-6-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="/charts/specialist-6.png">
-  <img alt="Especialista de Domínio 6" src="/charts/specialist-6.png">
+  <img alt="Especialista de Domínio 6" src="charts/specialist-6.png">
 </picture>
 
 - **Cria**: projeta e desenvolve novas tecnologias, metodologias ou processos amplamente utilizados interna ou externamente.
@@ -99,9 +87,7 @@ Papel também conhecido como especialista técnico, analista ou desenvolvedor, e
 ## N7 - Especialista de Domínio 7
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/charts/specialist-7-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="/charts/specialist-7.png">
-  <img alt="Especialista de Domínio 7" src="/charts/specialist-7.png">
+  <img alt="Especialista de Domínio 7" src="charts/specialist-7.png">
 </picture>
 
 - **Cria**: projeta e desenvolve novas tecnologias, metodologias ou processos amplamente utilizados interna ou externamente.

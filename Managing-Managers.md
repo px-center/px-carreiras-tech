@@ -5,9 +5,7 @@
 Quando você alcança níveis mais altos na trilha de liderança, é provável que alguns de seus subordinados diretos sejam outros gestores. As ações desses gestores têm um impacto maior em suas equipes e, por isso, é necessário estabelecer expectativas de maneira diferente.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/charts/dashboard-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="/charts/dashboard.png">
-  <img alt="Dashboard" src="/charts/dashboard.png">
+  <img alt="Dashboard" src="charts/dashboard.png">
 </picture>
 
 Como avaliar as habilidades de gestão de outros gestores?  
@@ -17,7 +15,7 @@ Gestores enfrentam forças conflitantes o tempo todo, e grande parte de seu trab
 
 Os gestores enfrentam constantemente a pressão do negócio para entregar valor rapidamente, enquanto sentem a pressão da equipe para oferecer soluções de alta qualidade.
 
-![Entrega](/charts/dashboard-delivery.png)
+![Entrega](charts/dashboard-delivery.png)
 
 | Impacto no Negócio    | Excelência Técnica ou Operacional |
 | :-------------------- | :-------------------------------- |
@@ -29,7 +27,7 @@ Os gestores enfrentam constantemente a pressão do negócio para entregar valor 
 
 Alinhar os objetivos da equipe com os objetivos individuais é fundamental para garantir um cenário onde a equipe entrega valor para a organização enquanto seus membros progridem em suas carreiras. O gestor deve buscar criar um cenário ganha-ganha, onde ambas as partes (equipe e indivíduos) se beneficiem.
 
-![Objetivos](/charts/dashboard-goals.png)
+![Objetivos](charts/dashboard-goals.png)
 
 | Equipe                  | Individuais           |
 | :---------------------- | :-------------------- |
@@ -41,7 +39,7 @@ Alinhar os objetivos da equipe com os objetivos individuais é fundamental para 
 
 Embora o planejamento de curto prazo versus longo prazo seja, às vezes, visto como uma discussão "negócio vs técnico", isso nem sempre é verdade. Muitas vezes, o gestor precisa equilibrar os trade-offs entre uma solução rápida e uma solução planejada. Devemos corrigir rapidamente este problema ou investir em uma solução técnica adequada? Criamos uma solução rápida ou investimos em um design bem elaborado?
 
-![Planejamento](/charts/dashboard-planning.png)
+![Planejamento](charts/dashboard-planning.png)
 
 | Curto Prazo            | Longo Prazo             |
 | :--------------------- | :---------------------- |
@@ -53,7 +51,7 @@ Embora o planejamento de curto prazo versus longo prazo seja, às vezes, visto c
 
 Gestores geralmente têm dificuldade em equilibrar a delegação eficaz sem perder o controle sobre suas equipes. Manter-se conectado aos detalhes sem interferir é, certamente, uma das tarefas mais difíceis para um gestor (especialmente gestores de gestores). É importante empoderar a equipe a tomar decisões, enquanto se mantém atualizado sobre o que está acontecendo.
 
-![Supervisão](/charts/dashboard-oversight.png)
+![Supervisão](charts/dashboard-oversight.png)
 
 | Controle               | Delegação     |
 | :--------------------- | :------------ |
@@ -65,7 +63,7 @@ Gestores geralmente têm dificuldade em equilibrar a delegação eficaz sem perd
 
 A maioria dos gestores se destaca na construção de relacionamentos com seus subordinados diretos (gestão para baixo) e com seus supervisores (gestão para cima), mas tende a subestimar os relacionamentos com o restante da organização (gestão horizontal). A falta de foco em relacionamentos horizontais adiciona riscos às iniciativas entre equipes e reduz a visibilidade do impacto da equipe.
 
-![Relacionamentos](/charts/dashboard-relationships.png)
+![Relacionamentos](charts/dashboard-relationships.png)
 
 | Vertical (Gestão para Baixo/Cima) | Horizontal (Gestão Transversal) |
 | :-------------------------------- | :------------------------------ |
