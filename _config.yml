@@ -1,3 +1,5 @@
-theme: minima
+theme: cayman
+plugins:
+  - jekyll-seo-tag
 title: Carreiras de Tecnologia da PX.Center
 description: Um guia para carreiras de tecnologia da PX.Center
