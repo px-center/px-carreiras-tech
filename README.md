@@ -4,7 +4,7 @@ Este framework permite que líderes de diferentes áreas de tecnologia tenham co
 
 Embora o framework use papéis e níveis que são relativamente comuns na indústria de tecnologia dos EUA, cada organização é única. Utilize as informações como base e sinta-se à vontade para ajustá-las às suas necessidades.
 
-O framework utiliza gráficos radiais para representar visualmente as diferentes perspectivas e expectativas de uma posição específica:
+O framework utiliza gráficos de radar para representar visualmente as diferentes perspectivas e expectativas de uma posição específica:
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="charts/template-dark.png">
@@ -16,22 +16,22 @@ O framework utiliza gráficos radiais para representar visualmente as diferentes
 
 O framework apresenta 4 trilhas de carreira diferentes:
 
-- [**Especialista Técnico**](Developer.md): também conhecido como desenvolvedor ou programador, requer um nível profundo de especialização técnica.
-- [**Líder Técnico**](TechLead.md): também conhecido como líder de desenvolvimento, é responsável pelo sistema, equilibrando desenvolvimento prático, conhecimento arquitetural e suporte em produção.
-- [**Gerente de Programas Técnicos**](TechnicalProgramManager.md): responsável por coordenar e concluir iniciativas que abrangem várias equipes.
-- [**Gerente de Equipe Técnica**](EngineeringManager.md): também conhecido como gestor técnico, é responsável pela entrega consistente, crescimento profissional e satisfação do time.
+- [**Especialista de Domínio**](Specialist.md): também conhecido como especialista técnico ou funcional, requer um nível profundo de conhecimento em uma área específica, como desenvolvimento, design, dados ou QA.
+- [**Líder Funcional**](FunctionalLead.md): também conhecido como líder técnico ou funcional, é responsável pelo sistema ou processos, equilibrando execução prática, conhecimento arquitetural ou processual, e suporte operacional.
+- [**Coordenador de Programas**](ProgramCoordinator.md): responsável por coordenar e concluir iniciativas que abrangem várias equipes ou áreas.
+- [**Gestor de Equipe**](TeamManager.md): também conhecido como gestor de equipe, é responsável pela entrega consistente, crescimento profissional e satisfação do time.
 
-Se houver dúvidas sobre as diferenças entre um [Líder Técnico](TechLead.md) e um [Gerente de Equipe Técnica](EngineeringManager.md), consulte a página [Líder Técnico vs Gerente de Equipe Técnica](TechLead-EngineeringManager.md) para uma comparação detalhada.
+Se houver dúvidas sobre as diferenças entre um [Líder Funcional](FunctionalLead.md) e um [Gestor de Equipe](TeamManager.md), consulte a página [Líder Funcional vs Gestor de Equipe](FunctionalLead-TeamManager.md) para uma comparação detalhada.
 
-| Nível | Sênior |      [Especialista Técnico](Developer.md)      |       [Líder Técnico](TechLead.md)       |        [Gerente de Programas Técnicos](TechnicalProgramManager.md)        |       [Gerente de Equipe Técnica](EngineeringManager.md)       |
-| :---: | :----: | :--------------------------------------------: | :--------------------------------------: | :-----------------------------------------------------------------------: | :------------------------------------------------------------: |
-|   1   |  Não   | [D1](Developer.md#d1---especialista-técnico-1) |                                          |                                                                           |                                                                |
-|   2   |  Não   | [D2](Developer.md#d2---especialista-técnico-2) |                                          |                                                                           |                                                                |
-|   3   |  Não   | [D3](Developer.md#d3---especialista-técnico-3) |                                          |                                                                           |                                                                |
-|   4   |  Sim   | [D4](Developer.md#d4---especialista-técnico-4) | [TL4](TechLead.md#tl4---líder-técnico-4) | [TPM4](TechnicalProgramManager.md#tpm4---gerente-de-programas-técnicos-4) |                                                                |
-|   5   |  Sim   | [D5](Developer.md#d5---especialista-técnico-5) | [TL5](TechLead.md#tl5---líder-técnico-5) | [TPM5](TechnicalProgramManager.md#tpm5---gerente-de-programas-técnicos-5) | [EM5](EngineeringManager.md#em5---gerente-de-equipe-técnica-5) |
-|   6   |  Sim   | [D6](Developer.md#d6---especialista-técnico-6) | [TL6](TechLead.md#tl6---líder-técnico-6) | [TPM6](TechnicalProgramManager.md#tpm6---gerente-de-programas-técnicos-6) | [EM6](EngineeringManager.md#em6---gerente-de-equipe-técnica-6) |
-|   7   |  Sim   | [D7](Developer.md#d7---especialista-técnico-7) | [TL7](TechLead.md#tl7---líder-técnico-7) | [TPM7](TechnicalProgramManager.md#tpm7---gerente-de-programas-técnicos-7) | [EM7](EngineeringManager.md#em7---gerente-de-equipe-técnica-7) |
+| Nível | Sênior |      [Especialista de Domínio](Specialist.md)      |       [Líder Funcional](FunctionalLead.md)       |       [Coordenador de Programas](ProgramCoordinator.md)       |       [Gestor de Equipe](TeamManager.md)       |
+| :---: | :----: | :------------------------------------------------: | :----------------------------------------------: | :-----------------------------------------------------------: | :--------------------------------------------: |
+|   1   |  Não   | [S1](Specialist.md#s1---especialista-de-domínio-1) |                                                  |                                                               |                                                |
+|   2   |  Não   | [S2](Specialist.md#s2---especialista-de-domínio-2) |                                                  |                                                               |                                                |
+|   3   |  Não   | [S3](Specialist.md#s3---especialista-de-domínio-3) |                                                  |                                                               |                                                |
+|   4   |  Sim   | [S4](Specialist.md#s4---especialista-de-domínio-4) | [FL4](FunctionalLead.md#fl4---líder-funcional-4) | [PC4](ProgramCoordinator.md#pc4---coordenador-de-programas-4) |                                                |
+|   5   |  Sim   | [S5](Specialist.md#s5---especialista-de-domínio-5) | [FL5](FunctionalLead.md#fl5---líder-funcional-5) | [PC5](ProgramCoordinator.md#pc5---coordenador-de-programas-5) | [TM5](TeamManager.md#tm5---gestor-de-equipe-5) |
+|   6   |  Sim   | [S6](Specialist.md#s6---especialista-de-domínio-6) | [FL6](FunctionalLead.md#fl6---líder-funcional-6) | [PC6](ProgramCoordinator.md#pc6---coordenador-de-programas-6) | [TM6](TeamManager.md#tm6---gestor-de-equipe-6) |
+|   7   |  Sim   | [S7](Specialist.md#s7---especialista-de-domínio-7) | [FL7](FunctionalLead.md#fl7---líder-funcional-7) | [PC7](ProgramCoordinator.md#pc7---coordenador-de-programas-7) | [TM7](TeamManager.md#tm7---gestor-de-equipe-7) |
 
 (clique no nome da posição para mais detalhes)
 
@@ -39,59 +39,59 @@ Se houver dúvidas sobre as diferenças entre um [Líder Técnico](TechLead.md) 
 
 O gráfico acima apresenta os seguintes 5 eixos:
 
-- **Tecnologia**: conhecimento do conjunto de ferramentas e tecnologias
-- **Sistemas**: nível de responsabilidade pelos sistemas
-- **Pessoas**: relacionamento com as equipes
-- **Processos**: engajamento nos processos de trabalho
-- **Influência**: alcance da influência da posição
+- **Conhecimento Técnico ou Funcional**: conhecimento do conjunto de ferramentas, tecnologias ou processos específicos da área.
+- **Sistemas e Processos**: nível de responsabilidade pelos sistemas, fluxos ou metodologias.
+- **Colaboração**: relacionamento com as equipes e stakeholders.
+- **Eficiência Operacional**: engajamento nos processos de trabalho e entrega de resultados.
+- **Influência**: alcance da influência da posição.
 
 O eixo **influência** pode ser visto como uma _dimensão diferente_, pois é ortogonal e se aplica a todos os outros eixos.
 
-Cada eixo possui 5 níveis de desempenho. É importante destacar que cada nível inclui os anteriores. Por exemplo, alguém que _evangeliza_ tecnologia também _especializa-se_ e _adota_ a tecnologia.
+Cada eixo possui 5 níveis de desempenho. É importante destacar que cada nível inclui os anteriores. Por exemplo, alguém que _evangeliza_ práticas também _especializa-se_ e _adota_ as práticas.
 
 Continue lendo para entender melhor cada nível.
 
 # Níveis
 
-## Tecnologia
+## Conhecimento Técnico ou Funcional
 
-1. **Adota**: aprende e utiliza as tecnologias e ferramentas definidas pela equipe.
-2. **Especializa-se**: torna-se referência em uma ou mais tecnologias, buscando ativamente aprender novas.
-3. **Evangeliza**: pesquisa, cria provas de conceito e introduz novas tecnologias à equipe.
-4. **Domina**: possui conhecimento profundo sobre todo o stack tecnológico do sistema.
-5. **Cria**: projeta e desenvolve novas tecnologias amplamente utilizadas interna ou externamente.
+1. **Adota**: aprende e utiliza as ferramentas, metodologias ou tecnologias definidas pela equipe.
+2. **Especializa-se**: torna-se referência em uma ou mais ferramentas ou áreas, buscando ativamente aprender novas.
+3. **Evangeliza**: pesquisa, cria provas de conceito e introduz novas práticas à equipe.
+4. **Domina**: possui conhecimento profundo sobre os processos ou stacks da área.
+5. **Cria**: projeta e desenvolve novas metodologias ou práticas amplamente utilizadas interna ou externamente.
 
-## Sistemas
+## Sistemas e Processos
 
-1. **Melhora**: entrega novas funcionalidades e correções que aprimoram o sistema.
-2. **Projeta**: desenvolve funcionalidades de médio a grande porte, reduzindo a dívida técnica.
-3. **Assume**: é responsável pela operação e monitoramento do sistema, atendendo aos SLAs.
-4. **Evolui**: ajusta a arquitetura para atender a requisitos futuros e define os SLAs.
-5. **Lidera**: conduz a excelência técnica do sistema, planejando para evitar falhas.
+1. **Melhora**: entrega novas funcionalidades, fluxos ou melhorias que aprimoram os sistemas/processos.
+2. **Projeta**: desenvolve soluções de médio a grande porte, reduzindo gargalos ou débitos.
+3. **Assume**: é responsável pela operação e monitoramento de sistemas/processos, garantindo métricas-chave.
+4. **Evolui**: ajusta arquiteturas ou metodologias para atender a requisitos futuros.
+5. **Lidera**: conduz a excelência técnica ou processual, planejando para evitar problemas.
 
-## Pessoas
+## Colaboração
 
 1. **Aprende**: adquire conhecimento com outros e assume responsabilidades quando necessário.
-2. **Apoia**: ajuda proativamente os membros da equipe a terem sucesso.
-3. **Orienta**: guia outros no crescimento de carreira e os incentiva a se engajarem.
-4. **Coordena**: organiza os membros da equipe, fornecendo feedback e moderando discussões.
-5. **Gerencia**: supervisiona a carreira, expectativas, desempenho e satisfação da equipe.
+2. **Apoia**: ajuda proativamente os membros da equipe ou stakeholders a atingirem seus objetivos.
+3. **Orienta**: guia outros no crescimento de carreira ou sucesso funcional.
+4. **Coordena**: organiza o time, fornece feedback e modera discussões.
+5. **Gerencia**: supervisiona expectativas, desempenho e satisfação das equipes.
 
-## Processos
+## Eficiência Operacional
 
-1. **Segue**: adere aos processos da equipe, garantindo a entrega consistente de funcionalidades.
+1. **Segue**: adere aos processos da equipe, garantindo consistência.
 2. **Encoraja**: promove os processos da equipe, destacando benefícios e limitações.
 3. **Desafia**: questiona os processos em busca de melhorias.
-4. **Ajusta**: adapta os processos da equipe, ouvindo feedbacks e orientando mudanças.
-5. **Define**: estabelece os processos adequados ao nível de maturidade da equipe.
+4. **Ajusta**: adapta os processos da equipe com base em feedbacks.
+5. **Define**: estabelece processos adequados ao nível de maturidade da equipe.
 
 ## Influência
 
-1. **Subsistema**: impacta um ou mais subsistemas.
-2. **Equipe**: gera impacto em toda a equipe, e não apenas em partes específicas.
-3. **Múltiplas Equipes**: influencia outras equipes além da sua.
-4. **Organização**: tem impacto em toda a organização de tecnologia.
-5. **Comunidade**: impacta a comunidade tecnológica.
+1. **Área**: impacta diretamente uma área específica.
+2. **Equipe**: gera impacto em toda a equipe.
+3. **Múltiplas Equipes**: influencia outras equipes ou áreas.
+4. **Organização**: impacta toda a organização.
+5. **Comunidade**: influencia a comunidade do setor.
 
 # Perguntas Frequentes
 
@@ -117,7 +117,7 @@ Recomenda-se uma combinação de:
 
 **O framework poderia oferecer exemplos mais específicos de comportamentos?**
 
-Exemplos específicos dependem do contexto da equipe, arquitetura do sistema e stack tecnológico. É recomendado que cada equipe defina seus próprios exemplos.
+Exemplos específicos dependem do contexto da equipe, fluxos e processos da área. É recomendado que cada equipe defina seus próprios exemplos.
 
 **Por que o framework para no nível 7?**
 
@@ -130,9 +130,9 @@ Níveis 8 e superiores variam muito entre organizações. Empresas de diferentes
 
 # Outras Páginas
 
-- [**Especialista Técnico**](Developer.md)
-- [**Líder Técnico**](TechLead.md)
-- [**Gerente de Programas Técnicos**](TechnicalProgramManager.md)
-- [**Gerente de Equipe Técnica**](EngineeringManager.md)
-- [**Líder Técnico vs Gerente de Equipe Técnica**](TechLead-EngineeringManager.md)
+- [**Especialista de Domínio**](Specialist.md)
+- [**Líder Funcional**](FunctionalLead.md)
+- [**Coordenador de Programas**](ProgramCoordinator.md)
+- [**Gestor de Equipe**](TeamManager.md)
+- [**Líder Funcional vs Gestor de Equipe**](FunctionalLead-TeamManager.md)
 - [**Gerenciando Gestores**](Managing-Managers.md)
