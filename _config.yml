@@ -1,5 +1,6 @@
-theme: cayman
+remote_theme: pages-themes/cayman@v0.2.0
 plugins:
+  - jekyll-remote-theme
   - jekyll-seo-tag
 title: Carreiras de Tecnologia da PX.Center
 description: Um guia para carreiras de tecnologia da PX.Center
