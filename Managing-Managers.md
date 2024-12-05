@@ -1,9 +1,8 @@
-# Managing Managers
+# Gerenciando Gestores
 
-## Introduction
+## Introdução
 
-When you get to higher levels of the manager's ladder, chances are that some of your direct reports will be other managers. 
-The manager's actions have a bigger impact on their teams and therefore you need to set expectations differently.
+Quando você alcança níveis mais altos na trilha de liderança, é provável que alguns de seus subordinados diretos sejam outros gestores. As ações desses gestores têm um impacto maior em suas equipes e, por isso, é necessário estabelecer expectativas de maneira diferente.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="/charts/dashboard-dark.png">
@@ -11,87 +10,82 @@ The manager's actions have a bigger impact on their teams and therefore you need
   <img alt="Dashboard" src="/charts/dashboard.png">
 </picture>
 
-How do you assess the managing skills of other managers?
-Managers face conflicting forces all the time, and a big part of their job is to keep things balanced.
-In order to set the right expectations and measure the manager's success, it is important to evaluate how balanced the following areas are:
+Como avaliar as habilidades de gestão de outros gestores?  
+Gestores enfrentam forças conflitantes o tempo todo, e grande parte de seu trabalho é manter as coisas equilibradas. Para definir as expectativas certas e medir o sucesso do gestor, é importante avaliar como as seguintes áreas estão equilibradas:
 
+## Entrega
 
-## Delivery
+Os gestores enfrentam constantemente a pressão do negócio para entregar valor rapidamente, enquanto sentem a pressão da equipe para oferecer soluções de alta qualidade.
 
-Managers constantly face push from the Business to deliver value quickly while feeling the pressure from the team to deliver high-quality solutions.
+![Entrega](/charts/dashboard-delivery.png)
 
-![Delivery](/charts/dashboard-delivery.png)
+| Impacto no Negócio    | Excelência Técnica ou Operacional |
+| :-------------------- | :-------------------------------- |
+| Velocidade            | Qualidade                         |
+| Feedback do Cliente   | Manutenibilidade                  |
+| Custo de Oportunidade | Custo da Dívida Técnica           |
 
-| Business Impact | Technical Excellence |
-| :--- | :--- |
-| Speed | Quality |
-| Customer Feedback | Code Maintainability |
-| Opportunity Cost | Tech Debt Cost |
+## Objetivos
 
+Alinhar os objetivos da equipe com os objetivos individuais é fundamental para garantir um cenário onde a equipe entrega valor para a organização enquanto seus membros progridem em suas carreiras. O gestor deve buscar criar um cenário ganha-ganha, onde ambas as partes (equipe e indivíduos) se beneficiem.
 
-## Goals
+![Objetivos](/charts/dashboard-goals.png)
 
-Aligning the team's goals and the individual's goals is critical to ensure a scenario where the team delivers value to the organization while its members make progress in their careers. The manager should try to create a win-win scenario where both sides (team and individual) get something in return.
+| Equipe                  | Individuais           |
+| :---------------------- | :-------------------- |
+| Necessidades do Negócio | Foco na Carreira      |
+| Expectativas da Equipe  | Interesses Pessoais   |
+| Desempenho do Grupo     | Desempenho Individual |
 
-![Goals](/charts/dashboard-goals.png)
+## Planejamento
 
-| Team | Individuals |
-| :--- | :--- |
-| Business Needs | Career Focus |
-| Team Expectations | Personal Interests |
-| Group Performance | Individual Performance |
+Embora o planejamento de curto prazo versus longo prazo seja, às vezes, visto como uma discussão "negócio vs técnico", isso nem sempre é verdade. Muitas vezes, o gestor precisa equilibrar os trade-offs entre uma solução rápida e uma solução planejada. Devemos corrigir rapidamente este problema ou investir em uma solução técnica adequada? Criamos uma solução rápida ou investimos em um design bem elaborado?
 
+![Planejamento](/charts/dashboard-planning.png)
 
-## Planning
+| Curto Prazo            | Longo Prazo             |
+| :--------------------- | :---------------------- |
+| Planejamento Semanal   | Planejamento Trimestral |
+| Solução Rápida         | Solução Bem Projetada   |
+| Resolver Imediatamente | Resolver Adequadamente  |
 
-Although short-term vs long-term planning is sometimes seen as a "business vs tech" type of discussion (see [Delivery](#delivery)), this is not always true. In many cases, the manager needs to balance the trade-offs between a quick business (or technical) solution and a long-term one. Do we fix this bug quickly or invest in a proper technical solution? Do we create a quick throw-away spike or we invest in a well-designed feature?
+## Supervisão
 
-![Planning](/charts/dashboard-planning.png)
+Gestores geralmente têm dificuldade em equilibrar a delegação eficaz sem perder o controle sobre suas equipes. Manter-se conectado aos detalhes sem interferir é, certamente, uma das tarefas mais difíceis para um gestor (especialmente gestores de gestores). É importante empoderar a equipe a tomar decisões, enquanto se mantém atualizado sobre o que está acontecendo.
 
-| Short-Term | Long-Term |
-| :--- | :--- |
-| Weekly Plan | Quarterly Plan |
-| Spike | Well Thought Out Design |
-| Solve Quickly | Solve Properly |
+![Supervisão](/charts/dashboard-oversight.png)
 
+| Controle               | Delegação     |
+| :--------------------- | :------------ |
+| Microgerenciamento     | Empoderamento |
+| Conectado aos Detalhes | Visão Geral   |
+| Auditoria              | Confiança     |
 
-## Oversight
+## Relacionamentos
 
-Managers usually have a hard time balancing how to delegate effectively without losing the control over their teams. Staying connected to the details without interfering is certainly one the most difficult tasks for a manager (especially for managers of managers). It is important for managers to empower the team to make decisions while being on top of what is going on.
+A maioria dos gestores se destaca na construção de relacionamentos com seus subordinados diretos (gestão para baixo) e com seus supervisores (gestão para cima), mas tende a subestimar os relacionamentos com o restante da organização (gestão horizontal). A falta de foco em relacionamentos horizontais adiciona riscos às iniciativas entre equipes e reduz a visibilidade do impacto da equipe.
 
-![Oversight](/charts/dashboard-oversight.png)
+![Relacionamentos](/charts/dashboard-relationships.png)
 
-| Control | Delegation |
-| :--- | :--- |
-| Micromanaging | Empowerment |
-| Connected to Details | Big Picture |
-| Auditing | Trust |
+| Vertical (Gestão para Baixo/Cima) | Horizontal (Gestão Transversal) |
+| :-------------------------------- | :------------------------------ |
+| Supervisores                      | Stakeholders                    |
+| Relatórios Diretos                | Pares/Outras Equipes            |
+| Relatórios Indiretos              | Usuários                        |
 
-## Relationships
+## Conclusão
 
-Most managers will excel at building relationships with their direct reports (managing down) and with their supervisor (managing up), but they tend to undervalue their relationships with the rest of the organization (managing across). Lack of focus on horizontal relationships adds risk to cross-team initiatives and reduces the manager's visibility of the team's impact.
+Avaliar gestores requer uma perspectiva diferente. Suas ações têm um impacto maior em suas equipes, e eles são responsáveis por manter o equilíbrio.
 
-![Relationships](/charts/dashboard-relationships.png)
+Os gestores devem equilibrar cada área — entrega, objetivos, planejamento, supervisão e relacionamentos — de forma sustentável ao longo do tempo. Nem todas as áreas precisam ser equilibradas da mesma forma; a senioridade da equipe, a cultura da empresa e o contexto do negócio podem mover o equilíbrio para um lado ou outro. O importante é evitar extremos.
 
-| Vertical (Managing Down / Up) | Horizontal (Managing Across) |
-| :--- | :--- |
-| Supervisor(s) | Stakeholders |
-| Direct Reports | Peers / Other Teams |
-| Indirect Reports | Users |
+Em resumo, entender como cada gestor está desempenhando em cada área é uma boa maneira de avaliar seu desempenho e criar oportunidades para conversas significativas sobre carreira.
 
-## Conclusion
+# Outras Páginas
 
-Assessing managers requires a slightly different perspective, their actions have a bigger impact on their teams and therefore they are in charge of keeping things balanced.
-
-Managers should balance each area —delivery, goals, planning, oversight and relationships— in a way that is sustainable over time. Not all areas might require to be balanced the same way; the seniority of the team, company culture, and business context might move the arrow closer to one side or the other, the green area is a range and not a single value. Having said that, it is important to avoid getting too close to any of the extremes.
-
-In summary, understanding how each manager is performing on every area is a good way to assess their performance and therefore a great opportunity to have meaningful career conversations with them.
-
-# Other Pages
-
-* [**Introduction**](README.md)
-* [**Developer**](Developer.md)
-* [**Tech Lead**](TechLead.md)
-* [**Technical Program Manager**](TechnicalProgramManager.md)
-* [**Engineering Manager**](EngineeringManager.md)
-* [**Tech Lead vs Engineering Manager**](TechLead-EngineeringManager.md)
+- [**Introdução**](README.md)
+- [**Especialista de Domínio**](Specialist.md)
+- [**Líder Funcional**](FunctionalLead.md)
+- [**Coordenador de Programas**](ProgramCoordinator.md)
+- [**Gestor de Equipe**](TeamManager.md)
+- [**Líder Funcional vs Gestor de Equipe**](FunctionalLead-TeamManager.md)
